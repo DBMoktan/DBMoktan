@@ -2,9 +2,9 @@
 🤝 I’m looking to collaborate on Machine Learning, Data Science, and AI-based research projects.<br>🧠 I’m looking for help with advanced ML techniques, deployment, and MLOps.<br>🌱 I’m currently learning Deep Learning, Model Optimization, and Production ML Systems.<br>⚡ Fun fact: I love turning real-world problems into ML solutions and explaining complex topics in simple ways.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/db-moktan/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/dbmoktan1026?igsh=MXMxbHNieXI3YmdpeA==)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1Koe7WWXyE/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/db-moktan/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/dbmoktan1026?igsh=MXMxbHNieXI3YmdpeA==)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/share/1Koe7WWXyE/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%2300A3E0.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/dbmoktan)
 
 # 💻 Tech Stack:
