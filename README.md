@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
+👯 🤝 I’m looking to collaborate on Machine Learning, Data Science, and AI-based research projects<br>🧠 I’m looking for help with advanced ML techniques, deployment, and MLOps<br>🌱 I’m currently learning Deep Learning, Model Optimization, and Production ML Systems<br>⚡ Fun fact: I love turning real-world problems into ML solutions and explaining complex topics in simple ways
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/db-moktan/) 
