@@ -1,13 +1,34 @@
-<h1 align="center">Hi 👋, I'm DB Moktan</h1>
-<h3 align="center">Machine Learning Engineer | Data Scientist | AI Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Dhana Bahadur Muktan</h1>
+<h3 align="center">
+Machine Learning Engineer | Data Scientist | Lecturer
+</h3>
 
 ---
 
 ## 🚀 About Me
+- 🎓 Lecturer & MTech IT Graduate with specialization in **Machine Learning and Data Science**
+- 🌾 Working on **AI-driven solutions for agriculture (Crop Yield Prediction in Nepal)**
 - 🤝 Open to collaborating on **Machine Learning, Data Science & AI projects**
 - 🧠 Interested in **Advanced ML, MLOps & Production Systems**
-- 🌱 Currently learning **Deep Learning & Scalable ML Systems**
-- ⚡ I enjoy solving **real-world problems using data-driven approaches**
+- 🌱 Currently exploring **Deep Learning & Scalable ML Systems**
+- ⚡ Passionate about solving **real-world problems using data-driven approaches**
+
+---
+
+## 🔬 Research Interests
+- Machine Learning for Agriculture and Health 
+- Climate Data Analysis  
+- Applied AI in Developing Countries  
+- MLOps & Scalable ML Systems
+- Generative AI, LLM and Agentic AI
+
+---
+
+## 💡 Key Strengths
+- End-to-End Machine Learning Pipeline Development  
+- Feature Engineering & Model Optimization  
+- Real-world ML Deployment (Streamlit / FastAPI)  
+- Data-driven Problem Solving  
 
 ---
 
@@ -86,5 +107,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DBMoktan&color=blue"/>
 </p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
